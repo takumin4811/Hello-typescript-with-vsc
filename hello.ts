@@ -16,7 +16,7 @@ var hello = new Hello();
 
 function main(){
     hello.tick();
-    setTimeout(main,1000);
+    setTimeout(main,1100);
 }
 
 main();
